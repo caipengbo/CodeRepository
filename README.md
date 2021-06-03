@@ -1,8 +1,8 @@
 # CodeRepository
 
-个人代码仓库
+My code repository, include:
 
-- snippet: 个人的一些代码片段
-- demo: 小的Demo
-- lab：公开课LAB代码
-- practice: 个人练习代码
+- snippet: my code snippets
+- lab：some excellent class LAB code
+- practice: some practice code
+- KVStore:  A KV Store service based on SkipList 
